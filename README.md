@@ -2,10 +2,6 @@
 
 ## Set up a scientific computing/statistics programming environment
 
-* Git and GitHub for statistics:
-* VSCode for R:
-* R:
-* RStudio:
-* Jamovi:
+* https://github.com/cmcntsh/stats2021_setup
 
 ## Statistics texts
