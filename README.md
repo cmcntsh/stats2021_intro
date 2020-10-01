@@ -1,8 +1,9 @@
 # Introduction to statistics
 
-## Set up a scientific computing/statistics programming environment
+## Exercises
 
-* https://github.com/cmcntsh/stats2021_setup
+* Set up a statistics programming environment: https://github.com/cmcntsh/stats2021_setup
+* Opening files exercise: https://github.com/cmcntsh/stats2021_exer_OpenFiles
 
 ## Statistics texts
 
