@@ -3,6 +3,7 @@
 ## Exercises
 
 * Set up a statistics programming environment: https://github.com/cmcntsh/stats2021_setup
+* Git and GitHub practice: https://github.com/cmcntsh/exerGitPractice
 * Opening files exercise: https://github.com/cmcntsh/stats2021_exer_OpenFiles
 
 ## Statistics texts
