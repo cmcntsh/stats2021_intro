@@ -9,6 +9,7 @@
 ## Statistics texts
 
 * Discovering Statistics Using IBM SPSS Statistics by Andy Field: https://www.amazon.com/Discovering-Statistics-Using-IBM-SPSS-ebook/dp/B077H1KGZN/ref=sr_1_4?dchild=1&keywords=discovering+statistics&qid=1601424641&sr=8-4
+* Learning Statistics with Jamovi by Danielle Navarro and David Foxcroft: https://www.learnstatswithjamovi.com/
 * R for Data Science by Garrett Grolemund, Hadley Wickham: https://r4ds.had.co.nz/
 * R for Researchers: An Introduction by Tyson S. Barrett: https://tysonbarrett.com/Rstats/index.html
 
@@ -16,8 +17,9 @@
 
 * Field chapter 1 (skim)
 * Field chapter 1 section 1.6.1 - 1.6.3 (read closely)
-* R for Data Science chapters 1, 11
-* R for Researchers Preface, Chapter 1
+* Navarro chapter 1 - 3 (skim)
+* R for Data Science chapters 1, 11 (skim)
+* R for Researchers Preface, Chapter 1 (skim)
 
 ## Statistical concept videos
 
