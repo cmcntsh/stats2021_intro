@@ -5,6 +5,8 @@
 * Set up a statistics programming environment: https://github.com/cmcntsh/stats2021_setup
 * Git and GitHub practice: https://github.com/cmcntsh/exerGitPractice
 * Opening files exercise: https://github.com/cmcntsh/stats2021_exer_OpenFiles
+* Math review - Practice order of operations: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-order-of-operations/e/evaluating-numerical-expressions-with-exponents
+* Math review - Practice summation notation: https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/e/sigma-notation
 
 ## Statistics texts
 
