@@ -41,3 +41,4 @@
 * Working with vectors in R (We will not do much with vectors directly in this course, but it's good to see how it's done.)(9 min): https://www.youtube.com/watch?v=2TcPAZOyV0U
 * Package management in Rstudio (3 min): https://www.youtube.com/watch?v=u1r5XTqrCTQ
 * Jamovi videos 1-8 (24 min): https://www.youtube.com/playlist?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn
+* R Basics (2 hour 11 min): https://www.youtube.com/watch?v=_V8eKsto3Ug
