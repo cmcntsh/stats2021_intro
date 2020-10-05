@@ -42,4 +42,4 @@
 * Package management in Rstudio (3 min): https://www.youtube.com/watch?v=u1r5XTqrCTQ
 * Jamovi videos 1-8 (24 min): https://www.youtube.com/playlist?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn
 * R Basics (2 hour 11 min): https://www.youtube.com/watch?v=_V8eKsto3Ug
-* Data Science Introduction (22 videos): https://www.youtube.com/watch?v=GHHE7gxj8wg&list=PLkk92zzyru5OmtobUL1fq96T4j1Wi-Hpl&index=2
+* Data Science Introduction (22 videos approx 1 hour 45 min): https://www.youtube.com/watch?v=GHHE7gxj8wg&list=PLkk92zzyru5OmtobUL1fq96T4j1Wi-Hpl&index=2
