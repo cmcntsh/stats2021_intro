@@ -1,5 +1,7 @@
 # Introduction to statistics
 
+This is part of a set of pages on statistics. https://github.com/cmcntsh/stats2021_topics
+
 ## Exercises
 
 * Set up a statistics programming environment: https://github.com/cmcntsh/stats2021_setup
